@@ -12,6 +12,7 @@
 </div>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=meldew&theme=dark&mode=weekly)](https://git.io/streak-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=meldew&count_private=true&theme=radical&showicons=true)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meldew&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
