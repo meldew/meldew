@@ -1,8 +1,11 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=meldew&count_private=true&theme=radical&showicons=true)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meldew&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meldew&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
