@@ -1,7 +1,7 @@
 
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meldew&&tsdsfs=sdfds&layout=compact&theme=radical&range=all_time)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meldew&theme=radical&layout=compact&hide=jupyter%20notebook)
 
 ---
 
