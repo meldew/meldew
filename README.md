@@ -1,5 +1,5 @@
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meldew&theme=radical&layout=compact&hide=jupyter%20notebook)
 
